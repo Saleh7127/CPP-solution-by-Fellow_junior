@@ -1,3 +1,4 @@
-*.exe
-*.o
+# Ignore all .o and .exe files in all folders
+**/*.o
+**/*.exe
 .DS_Store
